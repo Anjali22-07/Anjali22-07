@@ -1,3 +1,5 @@
+<div align="center">
+
 ## Hi there 👋
 
 ![Coding](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NoamR1c2lmeTFkYWswdjJ1ZXF0eWk2enNxbjB6eDlhOWl6eTJ1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbKLOdvCxBFNZpYvhL/giphy.gif)
@@ -38,3 +40,5 @@
 ---
 
 ⭐ From [Anjali](https://github.com/Anjali22-07)
+
+</div>
