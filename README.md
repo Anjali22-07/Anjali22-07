@@ -31,12 +31,12 @@
 
 ---
 
-
+<div align="center">
 ### 📫 Connect With Me
 - 📧 [Email](anj7944@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/anjali-singh-061685287/)  
 
-
+</div>
 ---
 
 ⭐ From [Anjali](https://github.com/Anjali22-07)
