@@ -1,8 +1,9 @@
 <div align="center">
 
 ## Hi there 👋
+![Uploading ezgif.com-animated-gif-maker.gif…]()
 
-![Coding](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NoamR1c2lmeTFkYWswdjJ1ZXF0eWk2enNxbjB6eDlhOWl6eTJ1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbKLOdvCxBFNZpYvhL/giphy.gif)
+
 
 # Hey There, I'm Anjali 👋  
 
