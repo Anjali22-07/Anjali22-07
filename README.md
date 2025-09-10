@@ -33,8 +33,8 @@
 
 
 ### 📫 Connect With Me
-- 📧 [Email](anj7944@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/anjali-singh-061685287/)  
+ 📧 [Email](anj7944@gmail.com)  
+ 💼 [LinkedIn](https://www.linkedin.com/in/anjali-singh-061685287/)  
 
 
 ---
