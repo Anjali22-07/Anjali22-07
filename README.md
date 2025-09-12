@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-![Coding](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NoamR1c2lmeTFkYWswdjJ1ZXF0eWk2enNxbjB6eDlhOWl6eTJ1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbKLOdvCxBFNZpYvhL/giphy.gif)
+![Coding](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzV5dG42YnI5eDFkdmw0ZTkyczIya3Zld2J5bnM2NnhkYjlyZ3ZkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbKLOdvCxBFNZpYvhL/giphy.gif)
 
 
 # Hey There, I'm Anjali 👋  
