@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-![Coding](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2NoamR1c2lmeTFkYWswdjJ1ZXF0eWk2enNxbjB6eDlhOWl6eTJ1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbKLOdvCxBFNZpYvhL/giphy.gif)
+![Coding](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fmadagascar-mort-gif-madagascar-mort-discover-share-gifs--22799541855834110%2F&psig=AOvVaw2veo6JQ4NlF7TqhCGm_vIM&ust=1757744979603000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjinL3M0o8DFQAAAAAdAAAAABAU)
 
 
 
