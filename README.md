@@ -27,7 +27,8 @@
 ---
 
 ### 📊 GitHub Stats
-![Anjali's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjali22-07&show_icons=true)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Anjali22-07)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjali22-07&layout=compact&theme=tokyonight)
 
 ---
