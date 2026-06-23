@@ -2,7 +2,8 @@
 
 ## Hi there 👋
 
-<img src="https://media.gifdb.com/zootopia-nick-well-hello-there-8jb4ojswd8c1dyoc.gif" width="300" height="300"/>
+<img src="![Uploading download.gif…]()
+" width="300" height="300"/>
 
 
 # Hey There, I'm Anjali 👋  
