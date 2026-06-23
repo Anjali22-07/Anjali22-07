@@ -2,8 +2,8 @@
 
 ## Hi there 👋
 
-<img src="![Uploading download.gif…]()
-" width="300" height="300"/>
+<img width="300" height="300" alt="download" src="https://github.com/user-attachments/assets/7f8dff19-71ad-4066-90e8-bbfdc7939ff2" />
+
 
 
 # Hey There, I'm Anjali 👋  
