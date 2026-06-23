@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzV5dG42YnI5eDFkdmw0ZTkyczIya3Zld2J5bnM2NnhkYjlyZ3ZkYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VbKLOdvCxBFNZpYvhL/giphy.gif" width="300" height="300"/>
+<img src="https://media.gifdb.com/zootopia-nick-well-hello-there-8jb4ojswd8c1dyoc.gif" width="300" height="300"/>
 
 
 # Hey There, I'm Anjali 👋  
