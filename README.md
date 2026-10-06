@@ -9,7 +9,7 @@
 # Hey There, I'm Anjali 👋  
 
 👩‍💻 Backend Developer | MCA 2024 Graduate  
-🌱 Building scalable backend systems using **Spring Boot**,**Hibernat**, **Spring Security**, **Spring Ai**. Actively mastering advanced DSA paradigms.  
+🌱 Building scalable backend systems using **Spring Boot**,**Hibernate**, **Spring Security**, **Spring Ai**. Actively mastering advanced DSA paradigms.  
 💡 Passionate about solving real-world problems with scalable backend solutions  
 🚀 Aspiring to join top product-based companies  
 
