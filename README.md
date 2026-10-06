@@ -9,9 +9,9 @@
 # Hey There, I'm Anjali 👋  
 
 👩‍💻 Backend Developer | MCA 2024 Graduate  
-🌱 Currently learning **Spring Boot, Hibernate, and Advanced DSA**  
+🌱 Building scalable backend systems using **Spring Boot**,**Hibernat**, **Spring Security**, **Spring Ai**. Actively mastering advanced DSA paradigms.  
 💡 Passionate about solving real-world problems with scalable backend solutions  
-🚀 Aspiring to join **Google** and other top product-based companies  
+🚀 Aspiring to join top product-based companies  
 
 ---
 
@@ -19,8 +19,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Servlets](https://img.shields.io/badge/Servlets-4285F4?style=for-the-badge&logo=java&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
